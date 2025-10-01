@@ -114,14 +114,6 @@ feature1,feature2,feature3,target
 - Train/test split: 80/20
 - All models use `random_state=42` for reproducibility
 
-## 🤝 Contributing
-
-This is an MVP. Future enhancements could include:
-- Stacking and Blending ensemble methods
-- Regression support
-- Cross-validation
-- Hyperparameter tuning
-- More model options
 
 ## 📄 License
 
